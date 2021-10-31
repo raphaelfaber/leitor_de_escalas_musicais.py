@@ -42,3 +42,4 @@ def texto(mensagem,tamanho=50):
 
 def linha(tamanho=50):
     print('-'*tamanho)
+

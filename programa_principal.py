@@ -1,4 +1,5 @@
-from nota1 import*
+from acessorios import*
+import os
 from time import sleep
 while True:
     texto('Bem vindo ao gerador de escalas musicais!')
@@ -11,7 +12,7 @@ while True:
     A - Lá
     B - Si""",end='\n')
     p=escalador()
-    sleep(1)
+    sleep(0.5)
     linha()
     escalamaior(p)
     linha()
@@ -20,6 +21,7 @@ while True:
     linha()
     sleep(1)
     harmonicomaior(p)
+    linha()
     try:
         q = str(input('Deseja sair?')).lower()
     except:

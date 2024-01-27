@@ -29,6 +29,6 @@ Ao digitar alguma nota, ele monta:</p>
 <p>Uma vez que os fonts estiverem no seu dispositivo,Basta executar o arquivo leitor_de_escalas_musicais.py no diretório raiz do projeto. Se Você fez o download usando o comando acima, basta executar:</p>
 <code> python3 $HOME/leitor_escalas_musicais/programa_principal.py</code>
 <p>Ao executar o programa, será exibido o menu principal:</p>
-![Menu principal](https://github.com/raphaelfaber/leitor_de_escalas_musicais.py/assets/90429070/be6a970d-e0d6-4e52-ba7e-1d53a377aa64)
+<img src="https://github.com/raphaelfaber/leitor_de_escalas_musicais.py/assets/90429070/be6a970d-e0d6-4e52-ba7e-1d53a377aa64">
 <p>Selecione a nota desejada e o programa irá imprimir a escala maior, menor e campo harmônico da nota selecionada.
 O programa suporta as notas normais e sustenidas(#), o programa NÃO suporta notas bemol(b)</p>

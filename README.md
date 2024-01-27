@@ -39,6 +39,7 @@ Ao digitar alguma nota, ele monta:</p>
  <li>Divulgar para os potenciais interessados</li>
  <li>Reportar bugs e problemas</li>
  <li>Traduzir para outros idiomas</li>
+ <li>Acompanhar e auxiliar com os issues</li>
 </ul>
 <p>No entanto, se quisermos levar o projeto a um outro nível, podemos:</p>
 <ul>

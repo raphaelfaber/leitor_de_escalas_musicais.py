@@ -30,5 +30,19 @@ Ao digitar alguma nota, ele monta:</p>
 <code> python3 $HOME/leitor_escalas_musicais/programa_principal.py</code>
 <p>Ao executar o programa, será exibido o menu principal:</p>
 <img src="https://github.com/raphaelfaber/leitor_de_escalas_musicais.py/assets/90429070/be6a970d-e0d6-4e52-ba7e-1d53a377aa64">
-<p>Selecione a nota desejada e o programa irá imprimir a escala maior, menor e campo harmônico da nota selecionada.
-O programa suporta as notas normais e sustenidas(#), o programa NÃO suporta notas bemol(b)</p>
+<p>Selecione a nota desejada e o programa irá imprimir a escala maior, menor e campo harmônico da nota selecionada.</p>
+<p><b>Atenção: O programa suporta as notas normais e sustenidas (#), o programa NÃO suporta notas bemol (b).</b></p>
+
+<h1> Quer contribuir? </h1>
+<p> Esse projeto tem o propósito de ajudar. Apenas isso e nada mais que isso. Portanto, para que o programa cumpra o seu propósito, ele deve ser acessível para quem precisar. Mesmo que essa pessoa seja completamente leiga. Então, para contribuir você pode:</p>
+<ul>
+ <li>Divulgar para os potenciais interessados</li>
+ <li>Reportar bugs e problemas</li>
+ <li>Traduzir para outros idiomas</li>
+</ul>
+<p>No entanto, se quisermos levar o projeto a um outro nível, podemos:</p>
+<ul>
+ <li>Criar uma interface gráfica amigável</li>
+ <li>Desenvolver esse programa em web, tornando-o mais acessível</li>
+ <li>Desenvolver uma versão mobile</li>
+</ul>
